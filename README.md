@@ -22,6 +22,6 @@ For example to create a two column layout in your static page or in your post yo
 </div>
 ```
 
-For more information about Twitter Bootstrap please go !(here)[http://getbootstrap.com/]
+For more information about Twitter Bootstrap please go ![here](http://getbootstrap.com/)
 
 ##### Note: this is a basic version of the theme, I will fix bugs and add more features as soon as possible.
