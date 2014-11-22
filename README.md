@@ -1,5 +1,6 @@
-Zen Ghost Theme by Michael Genesini v.1.0.0
+Zen Ghost Theme
 ==================================
+### by Michael Genesini v.1.0.0
 
 This is a porting of Ghost default theme Casper. Basically it is the same layout but based on Twitter Bootstrap with some other new features.
 With Twitter Bootstrap integration user can edit basic layout of posts and static pages by adding divs with Bootstrap grid classes.
