@@ -1,8 +1,9 @@
 Zen Ghost Theme v.1.0.0
 ==================================
-
+### Index example
 ![Example Index](https://copy.com/SuRDJcsm2vxStFaZ)
 
+### Index example
 ![Example Static](https://copy.com/7D2WTg7BkGP4k24Y)
 
 This is a porting of Ghost default theme Casper. Basically it is the same layout but based on Twitter Bootstrap with some other new features.
